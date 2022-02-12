@@ -1,7 +1,4 @@
-package com.sofka.EjerciciosPracticos;
-
-import javax.swing.*;
-import java.util.ArrayList;
+package com.sofka.EjerciciosPracticosDel_1_al_14;
 
 public class Ejercicio_5 {
 

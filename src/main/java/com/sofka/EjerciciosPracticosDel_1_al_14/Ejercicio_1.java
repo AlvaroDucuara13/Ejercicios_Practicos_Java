@@ -1,4 +1,4 @@
-package com.sofka.EjerciciosPracticos;
+package com.sofka.EjerciciosPracticosDel_1_al_14;
 
 public class Ejercicio_1 {
 

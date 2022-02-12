@@ -1,7 +1,4 @@
-package com.sofka.EjerciciosPracticos;
-
-import javafx.beans.binding.DoubleExpression;
-import jdk.nashorn.internal.runtime.regexp.joni.ScanEnvironment;
+package com.sofka.EjerciciosPracticosDel_1_al_14;
 
 import java.util.Scanner;
 

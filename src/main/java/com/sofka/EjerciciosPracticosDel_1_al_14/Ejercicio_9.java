@@ -1,6 +1,5 @@
-package com.sofka.EjerciciosPracticos;
+package com.sofka.EjerciciosPracticosDel_1_al_14;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Ejercicio_9 {
