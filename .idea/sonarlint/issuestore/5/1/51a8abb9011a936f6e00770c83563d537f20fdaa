@@ -1,0 +1,13 @@
+
+K
+java:S1854
+"5Remove this useless assignment to local variable "i".(¥Ύ£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(μ–¤‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(΄‹Ήφώÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ψ®χί
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(σ¤Ησόÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(φ°»ϋÿÿÿÿ
+’
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Μ‚Μ
+z
+java:S4165"_Remove this useless assignment; "i" already holds the assigned value along all execution paths.(εθ‹Αÿÿÿÿÿ
