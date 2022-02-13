@@ -50,7 +50,7 @@ public class testMain {
             }
         }
         double total=precioElcetrTotal+precioLavadrTotal+precioTvTotal;
-        System.out.println("Los Electrodomesticos sin lavadoras y sin televisores, tienen un precio total de: "+precioElcetrTotal+" Euros.");
+        System.out.println("Los Electrodomesticos tienen un precio total de: "+precioElcetrTotal+" Euros.");
         System.out.println("Las lavadoras tienen un precio total de: "+precioLavadrTotal+" Euros.");
         System.out.println("Los Televisores tienen un precio total de: "+precioTvTotal+" Euros.");
         System.out.println("El precio total de todo los objetos es: "+total+" Euros.");

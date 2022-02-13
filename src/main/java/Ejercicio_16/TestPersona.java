@@ -1,10 +1,5 @@
-package com.sofka.Ejercicio_16;
+package Ejercicio_16;
 
-import jdk.nashorn.internal.ir.ReturnNode;
-
-import java.security.PublicKey;
-import java.util.Locale;
-import java.util.Random;
 import java.util.Scanner;
 
 public class TestPersona {
