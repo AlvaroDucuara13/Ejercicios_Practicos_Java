@@ -111,7 +111,7 @@ public class datosPersonales {
                 ", DNI=' " + DNI ;
     }
     private void generaDNI(){
-        int idDNI = (int) (10000000 * Math.random());
+        int idDNI = (int) (100000000 * Math.random());
         this.DNI = idDNI + "_"+LetrasMay.toUpperCase();
 
     }
