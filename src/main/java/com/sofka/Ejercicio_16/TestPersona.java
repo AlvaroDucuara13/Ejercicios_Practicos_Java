@@ -1,4 +1,4 @@
-package Ejercicio_16;
+package com.sofka.Ejercicio_16;
 
 import java.util.Scanner;
 
@@ -71,7 +71,7 @@ public class TestPersona {
             altura_2 = datoEntrada.nextFloat();
         }
 
-        System.out.println("_________________________________________________________");
+        System.out.println("_______________________________________________________");
         //Datos de la tercera persona
         System.out.println("Digite el nombre de la persona_3");
         String nombre_3 = datoEntrada.next();

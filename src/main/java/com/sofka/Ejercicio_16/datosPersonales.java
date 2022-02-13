@@ -1,4 +1,4 @@
-package Ejercicio_16;
+package com.sofka.Ejercicio_16;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;
